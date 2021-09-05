@@ -1,0 +1,41 @@
+form *{
+	margin:2% 0%;
+}
+#jdelist{
+	width:fit-content;
+}
+
+#entitieslist{
+	width: 100%
+}
+
+#entitieslist input[type='text']{
+	width: 90%
+}
+
+#process_error{
+	font-size: xx-large;
+	text-align: center;
+}
+
+#process_error i{
+	font-size: 130px;
+	margin : 1%
+}
+
+.process{
+	width:100%
+}
+
+.column{
+	padding: 0%
+}
+
+.resultsTable tr:nth-child(odd) {
+  background-color: white;
+}
+
+.resultsTable th{
+	background-color: lightgrey;
+}
+

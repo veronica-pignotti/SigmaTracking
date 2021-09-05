@@ -1,0 +1,22 @@
+h2{
+	width:100%
+}
+
+#otherDetails{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	align-content: center;
+}
+
+#otherDetails div{
+	flex-direction: column;
+	width:40%;
+	padding:2%
+}
+
+#otherDetails div table{
+	width: fit-content	
+}

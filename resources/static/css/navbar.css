@@ -1,0 +1,17 @@
+table, form{
+	width: 100%;
+}
+
+tr, th, td{
+	text-align:left
+}
+
+#navbar{
+	background-color: red;
+	display:flex;
+	flex-wrap: wrap;
+	align-items: stretch;
+	align-content: stretch;
+	padding: 0.5%;
+	box-sizing:content-box;
+}
